@@ -1,0 +1,1 @@
+This is a twitter bot that can potentially get someone more twitter followers. The bot goes to a topic of your choice and likes multiple tweets related to the topic. Thus, this lets more twitter users see your account, which can lead to more followers. Specifically, when I wanted to grow my new twitter account, I used this bot to gain a significant amount of followers. 
